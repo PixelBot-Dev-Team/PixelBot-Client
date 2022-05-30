@@ -1,2 +1,2 @@
 # PixelBot-Client
-A client for communicating with PixelBot-Server instances.
+An open-source client for communicating with PixelBot-Server instances.
